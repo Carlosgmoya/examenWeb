@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import PantallaInicio from './Ventanas/PantallaInicio';
 import GoogleLoginComponent from './Componentes/GoogleLoginComponent';
