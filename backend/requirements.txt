@@ -1,0 +1,9 @@
+uvicorn
+fastApi
+pydantic
+pymongo[srv]
+markdown
+requests
+dropbox
+python-multipart
+google-auth
